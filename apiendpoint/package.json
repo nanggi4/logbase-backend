@@ -1,0 +1,24 @@
+{
+  "name": "logbase-apiendpoint",
+  "version": "0.0.1",
+  "description": "endpoint of logbase",
+  "authors": [
+    "kihum.nam <kihun.nam1006@gmail.com>"
+  ],
+  "license": "ISC",
+  "main": "lambda.js",
+  "scripts": {
+    "update-awslambda-builder": "",
+    "update-awslambda-interface": "",
+    "package-lambda-prod": "",
+    "delete-lambda-prod": "",
+    "create-lambda-prod": "",
+    "update-lambda-prod": "",
+    "update-env-prod": "",
+    "update-vpc-prod": ""
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
